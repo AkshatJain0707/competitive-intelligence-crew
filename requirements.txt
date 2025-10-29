@@ -1,0 +1,37 @@
+# === Core Frameworks ===
+streamlit
+crewai
+langchain
+langchain-openai
+langchain-google-genai
+
+# === AI / NLP Utilities ===
+openai
+google-generativeai
+tiktoken
+
+# === Data and Parsing ===
+pydantic
+pydantic-core
+requests
+beautifulsoup4
+
+# === Visualization and UI ===
+plotly
+matplotlib
+pandas
+numpy
+altair
+seaborn
+
+# === System and Utilities ===
+python-dotenv
+aiohttp
+asyncio
+
+# === Web Scraping Helpers ===
+selenium
+lxml
+
+# === Misc / Quality of Life ===
+tenacity

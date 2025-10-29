@@ -1,0 +1,45 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+output/
+dist/
+build/
+*.egg-info/
+
+# Temporary test files
+test_*.py
+simple_test.py
+
+# Log and temp files
+test_output.log
+noop_output.txt
+*.log
+output.txt
+simple_test_output.txt
+test.txt
+test_output.txt
+git_check.txt

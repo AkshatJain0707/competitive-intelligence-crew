@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# competitive-intelligence-crew
-Competitive Intelligence Crew is an autonomous multi-agent system that performs comprehensive competitor analysis using CrewAI and Google Gemini. It automatically scrapes competitor websites, analyzes visual branding elements, extracts messaging strategies, and synthesizes findings into actionable strategic recommendations.
-=======
+
 # Competitive Intelligence Crew
 
 An autonomous multi-agent competitor analysis system powered by **CrewAI** and **Google Gemini**.
